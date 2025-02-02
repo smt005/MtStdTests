@@ -1,0 +1,3 @@
+[submodule "ThirdParty/mystl"]
+	path = ThirdParty/mystl
+	url = https://github.com/smt005/mystl.git
